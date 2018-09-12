@@ -111,14 +111,14 @@ small {
 
 
 a {
-  color: #ef806d;
+  color: #f9508c;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #ef806d;
+  color: #f9508c;
   text-decoration: underline;
 }
 
@@ -1941,13 +1941,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #212529;
-  background-color: #ef806d;
+  background-color: #f9508c;
   border-color: none;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #ef806d;
+  background-color: #f9508c;
   border-color: none;
 }
 
@@ -6681,7 +6681,7 @@ body {
 }
 
 .ww-rsvp-detail .ww-rsvp-form .btn-submit {
-  background-color: rgba(239, 128, 109, 0.9);
+  background-color: rgba(240, 80, 140, 0.9);
   padding: 0.45rem 1.5rem;
   border: 0;
 }
@@ -6705,7 +6705,7 @@ body {
 }
 
 .ww-footer{
-  background-color: #ef806d;
+  background-color: #f9508c;
 }
 
 /* Common Style */
